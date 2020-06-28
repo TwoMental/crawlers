@@ -17,6 +17,8 @@
 `pipenv shell`
 - 安装相关的包
 `pipenv install`
+- 运行特定爬虫
+`python run.py ${web} ${crawler}`
 
 
 ## pppppre
